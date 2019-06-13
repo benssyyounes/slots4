@@ -1,6 +1,6 @@
 // Require Packages
 const Discord = require('discord.js');
-const client = new Discord.Client(); 
+const client = new Discord.Client(588685076527841290); 
 
 // Constant Variables
 let prefix = process.env.PREFIX; 
