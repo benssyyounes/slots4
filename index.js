@@ -31,4 +31,4 @@ client.on('message', message => {
 // Ready Event - Bot online / Bot started
 client.on('ready', () => console.log('Bot Launched!'));
 
-client.login(process.env.TOKEN); 
+client.login(NTg4ODE0NDI0OTY2NjkyOTA0.XQKmVQ.nhJOhGv262AQaASomGK9PGnJhV8); 
